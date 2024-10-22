@@ -317,12 +317,12 @@ INSERT INTO public.planet VALUES (2, 'Planet', 33, true, 2);
 INSERT INTO public.planet VALUES (3, 'Planet', 33, true, 3);
 INSERT INTO public.planet VALUES (4, 'Planet', 33, true, 4);
 INSERT INTO public.planet VALUES (5, 'Planet', 33, true, 5);
+INSERT INTO public.planet VALUES (6, 'Planet', 33, true, 6);
 INSERT INTO public.planet VALUES (7, 'Planet', 33, true, 1);
 INSERT INTO public.planet VALUES (8, 'Planet', 33, true, 2);
 INSERT INTO public.planet VALUES (9, 'Planet', 33, true, 3);
 INSERT INTO public.planet VALUES (10, 'Planet', 33, true, 4);
 INSERT INTO public.planet VALUES (11, 'Planet', 33, true, 5);
-INSERT INTO public.planet VALUES (6, 'Planet', 33, true, 6);
 INSERT INTO public.planet VALUES (12, 'Planet', 33, true, 6);
 
 
